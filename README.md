@@ -66,7 +66,6 @@ Linux uses a hierarchical file system. Key directories include:
 | Command | Description | Example |
 |---------|-------------|---------|
 | `chmod` | Change file permissions | `chmod 777 file.txt` |
-| `chown` | Change file owner | `chown user:group file.txt` |
 | `ls -l` | View file permissions | |
 
 ### Searching and Filtering
