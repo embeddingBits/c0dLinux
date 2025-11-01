@@ -86,7 +86,7 @@ Linux uses a hierarchical file system. Key directories include:
 | `hexdump` | Hex dump alternative | `hexdump -C file` |
 | `tar`   | Extract tar archives | `tar -xvf file.tar` |
 | `gunzip` | Unzip .gz files | `gunzip file.gz` |
-
+|  `zip and unzip` | Zip and Unzip files | `zip file.zip` & `unzip file.zip` |
 
 ---
 
