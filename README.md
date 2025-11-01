@@ -108,10 +108,11 @@ Linux uses a hierarchical file system. Key directories include:
 
 ## 4. Practice picoCTF Challenges
 
-- [picoCTF 301](https://play.picoctf.org/practice/challenge/301)  
-- [picoCTF 300](https://play.picoctf.org/practice/challenge/300)  
-- [picoCTF 137](https://play.picoctf.org/practice/challenge/137)  
-- [picoCTF 285](https://play.picoctf.org/practice/challenge/285)  
+- [picoCTF 147](https://play.picoctf.org/practice/challenge/147)  
+- [picoCTF 37](https://play.picoctf.org/practice/challenge/37)  
+- [picoCTF 170](https://play.picoctf.org/practice/challenge/170)  
+- [picoCTF 176](https://play.picoctf.org/practice/challenge/176)  
+- [picoCTF 322](https://play.picoctf.org/practice/challenge/322)
 
 ---
 
